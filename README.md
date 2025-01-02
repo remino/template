@@ -1,6 +1,6 @@
 # template
 
-By Author <https://example.com>
+By Rémino Rem <https://remino.net/>
 
 Short description of app or project.
 
@@ -96,7 +96,7 @@ Distributed under the ISC License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Rémino Rem https://remino.net/
+Rémino Rem <https://remino.net/>
 
 [Back to top](#template)
 
